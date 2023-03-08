@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text&family=Poppins:wght@300&display=swap');
+
+.sidenav{
+    height:100%;
+    position: fixed;
+    width:400px;
+    top:0;
+    left:0;
+    background-color: rgb(32, 31, 31);
+    
+
+}
+.img1 img{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.profileimg{
+    height:23%;
+    background-color: #2980b9;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.contacts{
+    margin-left: 60px;
+}
+.social{
+    margin-left: 60px;
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.contacts1
+{
+    margin-left: 60px;
+    color: white;
+    line-height: 0ch;
+}
+.education
+{
+    margin-left: 60px;
+    color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2px;
+}
+.education1{
+    margin-left: 40px;
+    color: white;
+}
+.language
+{
+    margin-left: 60px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2px;
+}
+.language1{
+    margin-left: 40px;
+    color: white;
+}
+.main
+{
+    
+    width:1000px;
+    top:0;
+    margin-left:400px;
+    color:black;
+    position: fixed;
+    border-right: 2px solid black;
+ 
+    
+}
+.profile{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+text-align: justify;
+word-spacing: 1px;
+font-size: 14px;
+}
+.work{
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 14px;
+}
+.profile1{
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.work1{
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    font-size: 12px;
+}
+.courses
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.courses1{
+    font-size: 12px;
+}
+.myskills{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.container {
+  width: 100%; /* Full width */
+  background-color: #ddd; /* Grey background */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.html {width: 90%; background-color: #2196F3;} /* Green */
+.css {width: 80%; background-color: #2196F3;} /* Blue */
+.js {width: 80%; background-color: #2196F3;} /* Red */
+.php {width: 70%; background-color: #2196F3;}
+.nodejs {width: 60%; background-color: #2196F3;}
+.flutter {width: 60%; background-color: #2196F3;}
+
+.main2{
+    
+    margin-left: 1420px;
+    width:1000px;
+    color:black;
+    top:0px;
+    position: fixed;
+    
+}
+.port{
+    top:0;
+}
